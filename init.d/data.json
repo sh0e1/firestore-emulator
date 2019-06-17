@@ -1,0 +1,39 @@
+{
+  "cities": {
+    "SF": {
+      "name": "San Francisco",
+      "state": "CA",
+      "country": "USA",
+      "capital": false,
+      "population": 860000
+    },
+    "LA": {
+      "name": "Los Angele",
+      "state": "CA",
+      "country": "USA",
+      "capital": false,
+      "population": 3900000
+    },
+    "DC": {
+      "name": "Washington, D.C.",
+      "state": null,
+      "country": "USA",
+      "capital": true,
+      "population": 680000
+    },
+    "TOK": {
+      "name": "Tokyo",
+      "state": null,
+      "country": "Japan",
+      "capital": true,
+      "population": 9000000
+    },
+    "BJ": {
+      "name": "Beijing",
+      "state": null,
+      "country": "China",
+      "capital": true,
+      "population": 21500000
+    }
+  }
+}
